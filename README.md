@@ -12,10 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BCA student passionate about technology and design  
-- 🖥️ Focused on building responsive, user-friendly websites  
-- ⚙️ Combining UX Design with frontend & Python backend  
-- 🚀 Always learning and exploring new tech
+- 👨‍💻 Pronouns: He/Him
+- 🎓 BCA student passionate about technology and design.  
+- 🖥️ Focused on building responsive, user-friendly websites.  
+- ⚙️ Combining UX Design with frontend & Python backend.
+- 🚀 Always learning and exploring new tech.
+- 📫 How to reach me: Check social links below.
 
 ---
 
@@ -34,35 +36,37 @@
 
 ---
 
-<h3 align="center">📫 Connect with me</h3>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
 
-<p align="center">
+
+---
+
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
   <a href="https://github.com/vashusaini-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/vashu-saini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
   <a href="mailto:vashusaini.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/vashu-saini/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://linktr.ee/vashu_saini" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
 ---
 
 > 🔄 _Always building. Always learning. Always growing._ 🌱
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vashusaini-dev&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vashusaini-dev&theme=react&hide_border=true" width="48%" />
-</p>

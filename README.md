@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub: vashusaini-dev -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Hola%2C+I'm+Vashu+Saini;Frontend+Developer+%7C+UI%2FUX+Designer;Python+Backend+Developer+%7C+BCA+Student;Building+modern+full-stack+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Hola+%F0%9F%96%90%2C+I'm+Vashu+Saini;Frontend+Developer+%7C+UI%2FUX+Designer;Python+Backend+Developer+%7C+BCA+Student;Building+modern+full-stack+web+apps" alt="Typing SVG" />
 </p>
 
 ---

@@ -1,7 +1,11 @@
 <!-- Profile README for GitHub: vashusaini-dev -->
 
+<h1 align="center">
+  Hola, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Vashu Saini
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Hola+%F0%9F%96%90%2C+I'm+Vashu+Saini;Frontend+Developer+%7C+UI%2FUX+Designer;Python+Backend+Developer+%7C+BCA+Student;Building+modern+full-stack+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+UX+Designer;Python+Backend+Developer+%7C+BCA+Student;Building+modern+full-stack+web+apps" alt="Typing SVG" />
 </p>
 
 ---

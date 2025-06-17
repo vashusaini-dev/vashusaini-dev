@@ -34,11 +34,25 @@
 
 ---
 
-### 📫 Contact Me
+<h3 align="center">📫 Connect with me</h3>
 
-- 📧 Email: **vashusaini.dev@gmaiI.com**  
-- 🔗 LinkedIn: [@vashu-saini](https://www.linkedin.com/in/vashu-saini)  
-- 🌐 Linktree: [linktr.ee/vashu_saini](https://linktr.ee/vashu_saini)
+<p align="center">
+  <a href="https://github.com/vashusaini-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vashu-saini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vashusaini.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/vashu-saini/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://linktr.ee/vashu_saini" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
 
 ---
 

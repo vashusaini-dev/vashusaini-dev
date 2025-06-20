@@ -35,14 +35,12 @@
 </p>
 
 ---
-
 <!-- 🔥 GitHub Streaks Section -->
 <h3 align="center">🔥 Streak Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
-
 ---
 
 <h3 align="left">🌐 Connect with Me</h3>

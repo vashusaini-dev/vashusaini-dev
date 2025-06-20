@@ -45,7 +45,7 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/vashusaini-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;

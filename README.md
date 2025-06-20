@@ -36,7 +36,7 @@
 
 ---
 <!-- 🔥 GitHub Streaks Section -->
-<h3 align="center">🔥 Streak Stats</h3>
+<h3 align="left">🔥 Streak Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />

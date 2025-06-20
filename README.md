@@ -38,7 +38,7 @@
 
 <!-- GitHub Streaks Section -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://vashu-streak.vercel.app/?user=vashusaini-dev&theme=tokyonight&border_radius=10" />
 </div>
 
 ---

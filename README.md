@@ -36,10 +36,10 @@
 
 ---
 
+<!-- GitHub Streaks Section -->
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=vashusaini-dev&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
-
 
 ---
 
